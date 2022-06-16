@@ -1,1 +1,1 @@
-# Taquer-a
+Programa que simula y automatiza las órdenes generadas por los clientes en una taquería, genera las notas de cada cliente con los tacos y el sabor de cada uno, además de su precio y algunos complementos como la salsa y los limones deseados. Permite generar modificaciones a la orden y eliminarla. Esto, a través de un menú el cual, llama a las funciones del programa con estructuras, punteros y memoria dinámica
